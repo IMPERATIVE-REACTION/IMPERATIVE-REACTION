@@ -1,6 +1,5 @@
 <p align="center">
-$\large{\textsf{𝘛𝘏𝘌𝘙𝘌'𝘚 𝘑𝘜𝘚𝘛 𝘈 𝘍𝘐𝘕𝘌 𝘓𝘐𝘕𝘌 𝘉𝘌𝘛𝘞𝘌𝘌𝘕 𝘈 𝘎𝘖𝘖𝘋 𝘔𝘈𝘕 𝘈𝘕𝘋 𝘐
-}}$	
+$\Large{\textsf{𝘛𝘏𝘌𝘙𝘌'𝘚 𝘑𝘜𝘚𝘛 𝘈 𝘍𝘐𝘕𝘌 𝘓𝘐𝘕𝘌 𝘉𝘌𝘛𝘞𝘌𝘌𝘕 𝘈 𝘎𝘖𝘖𝘋 𝘔𝘈𝘕 𝘈𝘕𝘋 𝘐}}$	
 
 <img width="2033" height="866" alt="Image" src="https://github.com/user-attachments/assets/5d62b5e8-009d-4519-957b-9fbe4f445250" />
 <p align="center">
