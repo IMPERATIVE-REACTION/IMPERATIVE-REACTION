@@ -4,7 +4,7 @@
 <p align="center">
 𝖘𝖎𝖌𝖓 𝖒𝖞 𝖆𝖙𝖆𝖇𝖔𝖔𝖐.
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ruq4w7xwunfczu4v2tbftgd3x4&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ruq4w7xwunfczu4v2tbftgd3x4&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color=000000&bar_color_cover=true">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ruq4w7xwunfczu4v2tbftgd3x4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color=ffffff&bar_color_cover=false">
   </a>
 </p>
