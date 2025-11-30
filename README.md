@@ -6,7 +6,7 @@ $\large{\textsf{𝘛𝘏𝘌𝘙𝘌'𝘚 𝘑𝘜𝘚𝘛 𝘈 𝘍𝘐𝘕𝘌
 <p align="center">
 $\color{gray}{\textsf{art by rye-kin on tumblr}}$	
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ruq4w7xwunfczu4v2tbftgd3x4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color=ffffff&bar_color_cover=false">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ruq4w7xwunfczu4v2tbftgd3x4&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ruq4w7xwunfczu4v2tbftgd3x4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=2b2b2b&bar_color_cover=false">
   </a>
 </p>
