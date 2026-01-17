@@ -1,5 +1,6 @@
 <p align="center">
-$\Large{\textsf{𝘛𝘏𝘌𝘙𝘌'𝘚 𝘑𝘜𝘚𝘛 𝘈 𝘍𝘐𝘕𝘌 𝘓𝘐𝘕𝘌 𝘉𝘌𝘛𝘞𝘌𝘌𝘕 𝘈 𝘎𝘖𝘖𝘋 𝘔𝘈𝘕 𝘈𝘕𝘋 𝘐}}$
+$\Large{\textsf{,, 𝘪'𝘷𝘦 𝘯𝘦𝘷𝘦𝘳 𝘣𝘦𝘦𝘯 𝘴𝘰 𝘴𝘢𝘥 𝘬𝘯𝘰𝘸𝘪𝘯' 𝘪'𝘭𝘭 𝘯𝘦𝘷𝘦𝘳 𝘴𝘦𝘦 𝘺𝘰𝘶 𝘢𝘨𝘢𝘪𝘯
+''}}$
 <img width="2033" height="866" alt="Image" src="https://github.com/user-attachments/assets/26e2383d-ec2b-400d-8f75-d63467e8c4c0" />
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
